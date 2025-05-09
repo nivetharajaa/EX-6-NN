@@ -1,7 +1,7 @@
 ## NAME : Nivetha A
 ## REG.NO : 212222230101
 ## EX. NO.6
-## DATE :
+## DATE :19/05/25
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
@@ -81,8 +81,10 @@ print(classification_rep)
 ```
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/526327d8-ac3f-46fe-94e9-22b49f77f524)
 
 
+![image](https://github.com/user-attachments/assets/138425b3-d2f0-4fb3-87cb-72d476b8c97b)
 
 
 ## Results:

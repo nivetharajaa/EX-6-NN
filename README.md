@@ -1,7 +1,7 @@
-<H3>ENTER YOUR NAME:Nivetha A</H3>
-<H3>ENTER YOUR REGISTER NO:212222230101</H3>
-<H3>EX. NO.6</H3>
-<H3>DATE:</H3>
+## NAME : Nivetha A
+## REG.NO : 212222230101
+## EX. NO.6
+## DATE :
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
@@ -17,6 +17,7 @@ Step 9:Evaluate the model's accuracy by comparing the predicted labels (y_pred) 
 Step 10:Print the accuracy of the model.<BR>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<BR>
 <H3>Program: </H3>
+
 ```
 import numpy as np
 import pandas as pd
@@ -48,6 +49,7 @@ plt.title("MLP Training Loss Convergence")
 plt.xlabel("Iteration")
 plt.ylabel("Training loss")
 plt.show()
+
 ```
 ```
 from sklearn.preprocessing import StandardScaler
@@ -77,10 +79,11 @@ print(conf_matrix)
 print("Classification Report")
 print(classification_rep)
 ```
-
-<H3>Output:</H3>
-
+## OUTPUT:
 
 
-<H3>Results:</H3>
+
+
+
+## Results:
 Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
